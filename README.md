@@ -105,12 +105,6 @@
 #### 5️⃣ Save Processed Documents
 - Maintain a mapping of ClickUp → Linear documents in `saved_documents.json`.
 
-## Migration Considerations
-### Needs
-- **Mapping:** Space (ClickUp) → Teams (Linear)
-- **Handling workspace documents:** Organizing documents from non-technical spaces (Finance, Sales, Marketing)
-- **Task-related documents (63 identified):** Location in Linear?
-
 ### Disadvantages of Linear
 - No dedicated document section.
 - No nested document hierarchy.
