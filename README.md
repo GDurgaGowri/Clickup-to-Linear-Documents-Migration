@@ -29,7 +29,7 @@
 
 ### 1. Initialize API Key & Workspace ID
 - Retrieve and store the `API_TOKEN` from ClickUp settings.
-- Retrieve the `WORKSPACE_ID` (SuperOps ID).
+- Retrieve the `WORKSPACE_ID` (ID).
 
 ### 2. Retrieve All Spaces in the Workspace
 - Call `getSpaces(Workspace_Id)`.
